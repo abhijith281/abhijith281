@@ -15,7 +15,7 @@ MERN stack developer focused on building scalable, real-world applications
 
 ## Connect with Me
 
-* GitHub: https://github.com/[your-username]
+* GitHub: https://github.com/abhijith281
 * LinkedIn: https://linkedin.com/in/[your-profile]
 * Email: nairabhijith281@gmail.com
 
